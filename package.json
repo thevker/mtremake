@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "魔塔重製版 - Ver.1.32",
+        "width": 1280,
+        "height": 768,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
