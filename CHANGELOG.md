@@ -1,5 +1,17 @@
 # 更新記錄 - Craft to Exile 2.5 - Plus
 
+## [v1.1] - 2024-10-18
+
+- 新增Better-End更好的終界模組
+- 新增CFM家私模組-重製版
+- 新增Cataclysm大災變模組
+- 新增AetherVillages天堂村莊擴充模組
+- 新增FTBChunk領地模組
+- 新增FTBEssentials權限指令
+- 新的伺服器任務表設計中...
+- CTE2.5伺服器更換新機房
+- 全新EclecticTrove外觀框材質
+
 ## [1.0.6.2] - 2024-10-16
 
 ### 更新內容
