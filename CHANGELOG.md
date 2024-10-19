@@ -1,5 +1,13 @@
 # 更新記錄 - Craft to Exile 2.5
 
+## [v1.3] - 2014-10-19
+
+- 新增EBB血量條模組
+- 刪除SlashBlade拔刀劍模組
+- 刪除拔刀劍DLC模組重製版
+- 刪除BOMD終極BOSS模組
+- 刪除SereneSeasons季節模組
+
 ## [v1.2] - 2024-10-19
 
 - FTB任務表更新
