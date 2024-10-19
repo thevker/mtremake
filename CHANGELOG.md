@@ -1,12 +1,17 @@
 # 更新記錄 - Craft to Exile 2.5
 
-## [v1.3_HotFix] - 2014-10-19
+
+
+## [v1.4_HotFix] - 2014-10-19
 
 - 新增EBB血量條模組
-- 刪除SlashBlade拔刀劍模組
-- 刪除拔刀劍DLC模組重製版
-- 刪除BOMD終極BOSS模組
 - 刪除SereneSeasons季節模組
+- 刪除TheGraveyard墓地模組
+- 刪除Minecraft-Dungeons地下城模組
+- 刪除AetherVillages天堂村莊擴充模組
+- 刪除Better-End更好的終界模組
+- 刪除BiomesOPlenty生態模組
+- 刪除AOA3虛空世界3模組
 
 ## [v1.2] - 2024-10-19
 
@@ -30,7 +35,7 @@
 - CTE2.5伺服器更換新機房
 - 全新EclecticTrove外觀框材質
 
-## [1.0.6.2] - 2024-10-16
+## [v1.0] - 2024-10-16
 
 ### 更新內容
 - Forge版本由 47.2.18 升級至 47.3.11
