@@ -8,6 +8,7 @@
 - 新增SlashBlade拔刀劍模組
 - 新增拔刀劍DLC模組重製版
 - 新增BOMD終極BOSS模組
+- 刪除BetterPingDisplay顯示Ping模組
 
 ## [v1.1] - 2024-10-18
 
