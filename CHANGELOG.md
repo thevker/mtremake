@@ -1,4 +1,4 @@
-# 更新記錄 - Craft to Exile 2.5 - Plus
+# 更新記錄 - Craft to Exile 2.5
 
 ## [v1.2] - 2024-10-19
 
