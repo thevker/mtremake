@@ -12,6 +12,7 @@
 - 刪除Better-End更好的終界模組
 - 刪除BiomesOPlenty生態模組
 - 刪除AOA3虛空世界3模組
+- 刪除Ice & Fire冰與火之龍模組
 
 ## [v1.2] - 2024-10-19
 
