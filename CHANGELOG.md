@@ -1,5 +1,14 @@
 # 更新記錄 - Craft to Exile 2.5 - Plus
 
+## [v1.2] - 2024-10-19
+
+- FTB任務表更新
+- 新增TouhouLittlemaid女僕模組
+- 己內置女僕全部資源包
+- 新增SlashBlade拔刀劍模組
+- 新增拔刀劍DLC模組重製版
+- 新增BOMD終極BOSS模組
+
 ## [v1.1] - 2024-10-18
 
 - 新增Better-End更好的終界模組
