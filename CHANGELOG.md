@@ -2,11 +2,16 @@
 
 
 
+## [v1.6] - 2024-10-21
+
+- FTB任務表更新 (只支援伺服器)
+- FTB新任務繁體中文化
+- 修復新版M&N導致FTB任務沒有經驗獎勵BUG
+
 ## [v1.5] - 2024-10-21
 
 - 更新M&s核心模組
 - 刪除l_EnderCataclysm模組
-- 刪除AlexMob模組
 - 刪除SpecialMobs特殊怪物模組
 - 刪除Aether天堂模組
 - 刪除Aether_Redux天堂DLC模組
