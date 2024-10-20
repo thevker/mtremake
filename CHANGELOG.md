@@ -2,7 +2,18 @@
 
 
 
-## [v1.4_HotFix] - 2014-10-19
+## [v1.5] - 2024-10-21
+
+- 更新M&s核心模組
+- 刪除l_EnderCataclysm模組
+- 刪除AlexMob模組
+- 刪除SpecialMobs特殊怪物模組
+- 刪除Aether天堂模組
+- 刪除Aether_Redux天堂DLC模組
+- 刪除Aero內置模組
+- 刪除Artifacts文物模組
+
+## [v1.4_HotFix] - 2024-10-19
 
 - 新增EBB血量條模組
 - 刪除SereneSeasons季節模組
