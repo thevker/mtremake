@@ -1,6 +1,10 @@
 # 更新記錄 - Craft to Exile 2.5
 
 
+## [v2.1] - 2024-10-27
+
+- 完善M&N繁體中文翻譯
+- 新增L_EnderCataclysm大災變模組
 
 ## [v2.0] - 2024-10-27
 
@@ -26,7 +30,7 @@
 ## [v1.5] - 2024-10-21
 
 - 更新M&s核心模組
-- 刪除l_EnderCataclysm模組
+- 刪除L_EnderCataclysm大災變模組
 - 刪除SpecialMobs特殊怪物模組
 - 刪除Aether天堂模組
 - 刪除Aether_Redux天堂DLC模組
